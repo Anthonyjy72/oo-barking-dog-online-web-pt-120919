@@ -7,3 +7,7 @@ class Dog
     @this_dogs_name
   end
 end
+
+def bark
+  @this_dogs_name = "bark"
+end
