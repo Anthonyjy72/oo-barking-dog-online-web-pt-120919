@@ -8,7 +8,6 @@ class Dog
   end
 end
 
-def bark
-  @this_dogs_name = bark
-end
-end
+  def bark
+   @this_dogs_name = bark
+  end
